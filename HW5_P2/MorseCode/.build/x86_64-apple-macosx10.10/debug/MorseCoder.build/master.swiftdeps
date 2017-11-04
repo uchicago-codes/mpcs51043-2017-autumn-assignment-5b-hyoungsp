@@ -1,5 +1,0 @@
-version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
-options: "b932941a37aa5331875156921632e250"
-build_time: [1509826447, 469331000]
-inputs:
-  "/Users/hyoungsunpark/Desktop/HW5_P2/MorseCode/.build/checkouts/MorseCoder--654781285402476182/Sources/MorseCoder/MorseCoder.swift": [1509826447, 0]
