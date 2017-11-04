@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MorseCoder",
+        "repositoryURL": "/Users/hyoungsunpark/Desktop/_PROBLEM2_/MorseCoder",
+        "state": {
+          "branch": null,
+          "revision": "0880cf1c228cbe8619ee722bf2e9a1c87b7de52e",
+          "version": "2.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
